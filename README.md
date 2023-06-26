@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://www.udacity.com/blog/wp-content/uploads/2019/03/480-white.png))
+![alt text](https://www.udacity.com/blog/wp-content/uploads/2019/03/480-white.png)
 
 # TMDB-5000-Movies-Analysis-
 
